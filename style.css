@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #912166;
+    margin: 0;
+}
+
+h1 {
+   font-size: 40px;
+}
+
+h2{
+    margin-top: 30px;
+}
+
+p{
+    font-size: 18px;
+}
+
+button.botao-principal{
+    padding: 12px 24px;
+    font-size: 16px;
+    cursor: pointer;
+    
+    background-color: #222;
+    color: red;
+
+    border: none;
+    border-radius: 8px;
+}
+
+.container{
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+}
